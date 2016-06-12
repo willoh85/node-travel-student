@@ -1,7 +1,26 @@
 body {
-  padding: 50px;
+  padding: 100px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: #ffffff;
 }
 a {
-  color: #00b7ff;
+  color: #000000;
+}
+
+h2 {
+  color: #000000;
+  border: 5px double #ffffff;
+  text-decoration: none;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+}
+
+p.description {
+  font-style: italic;
+}
+
+p.images {
+  position: center;
 }
